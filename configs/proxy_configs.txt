@@ -6,8 +6,6 @@
 
 hysteria2://29fbd51f-03c8-4d76-849a-436e54d58317@107.172.235.75:22262/?sni=dxobg4azmk.gafnode.sbs#LosAngeles-GetAFreeNode
 
-hysteria2://29fbd51f-03c8-4d76-849a-436e54d58317@185.126.255.78:58944/?sni=dxobg4azmk.gafnode.sbs#Kyiv-GetAFreeNode
-
 hysteria2://29fbd51f-03c8-4d76-849a-436e54d58317@23.132.228.217:38746/?sni=dxobg4azmk.gafnode.sbs#Como-GetAFreeNode
 
 hysteria2://29fbd51f-03c8-4d76-849a-436e54d58317@85.235.205.212:55182/?sni=dxobg4azmk.gafnode.sbs#SaintPetersburg-GetAFreeNode
