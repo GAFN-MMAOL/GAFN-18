@@ -79,10 +79,10 @@
       "type": "selector",
       "outbounds": [
         "auto",
-        "🇺🇸 hysteria2-6482f664 (United States)",
-        "🇺🇦 hysteria2-8f93b427 (Ukraine)",
-        "🇮🇹 hysteria2-78ba247f (Italy)",
-        "🇷🇺 hysteria2-0b45192b (Russia)",
+        "🇺🇸 hysteria2-ad58b7a1 (United States)",
+        "🇺🇦 hysteria2-e48a1c01 (Ukraine)",
+        "🇮🇹 hysteria2-417363dd (Italy)",
+        "🇷🇺 hysteria2-3919760e (Russia)",
         "direct"
       ]
     },
@@ -90,10 +90,10 @@
       "tag": "auto",
       "type": "urltest",
       "outbounds": [
-        "🇺🇸 hysteria2-6482f664 (United States)",
-        "🇺🇦 hysteria2-8f93b427 (Ukraine)",
-        "🇮🇹 hysteria2-78ba247f (Italy)",
-        "🇷🇺 hysteria2-0b45192b (Russia)"
+        "🇺🇸 hysteria2-ad58b7a1 (United States)",
+        "🇺🇦 hysteria2-e48a1c01 (Ukraine)",
+        "🇮🇹 hysteria2-417363dd (Italy)",
+        "🇷🇺 hysteria2-3919760e (Russia)"
       ],
       "url": "http://www.gstatic.com/generate_204",
       "interval": "10m",
@@ -105,7 +105,7 @@
     },
     {
       "type": "hysteria2",
-      "tag": "🇺🇸 hysteria2-6482f664 (United States)",
+      "tag": "🇺🇸 hysteria2-ad58b7a1 (United States)",
       "server": "107.172.235.75",
       "server_port": 31593,
       "password": "29fbd51f-03c8-4d76-849a-436e54d58317",
@@ -117,7 +117,7 @@
     },
     {
       "type": "hysteria2",
-      "tag": "🇺🇦 hysteria2-8f93b427 (Ukraine)",
+      "tag": "🇺🇦 hysteria2-e48a1c01 (Ukraine)",
       "server": "185.126.255.78",
       "server_port": 21005,
       "password": "29fbd51f-03c8-4d76-849a-436e54d58317",
@@ -129,7 +129,7 @@
     },
     {
       "type": "hysteria2",
-      "tag": "🇮🇹 hysteria2-78ba247f (Italy)",
+      "tag": "🇮🇹 hysteria2-417363dd (Italy)",
       "server": "23.132.228.217",
       "server_port": 38746,
       "password": "29fbd51f-03c8-4d76-849a-436e54d58317",
@@ -141,7 +141,7 @@
     },
     {
       "type": "hysteria2",
-      "tag": "🇷🇺 hysteria2-0b45192b (Russia)",
+      "tag": "🇷🇺 hysteria2-3919760e (Russia)",
       "server": "85.235.205.212",
       "server_port": 55182,
       "password": "29fbd51f-03c8-4d76-849a-436e54d58317",
